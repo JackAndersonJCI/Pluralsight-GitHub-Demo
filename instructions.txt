@@ -5,3 +5,9 @@ Lorem ipsum
 
 Adding new text in a new branch
 -------------------------------
+
+
+Other new branch changes
+------------------------
+stuff...
+
