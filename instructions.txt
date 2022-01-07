@@ -1,3 +1,7 @@
 Instructions for deploying site to the server
 ---------------------------------------------
 Lorem ipsum
+
+
+Adding new text in a new branch
+-------------------------------
